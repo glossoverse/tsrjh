@@ -1,0 +1,30 @@
+Feature type(*consonant, syll)
+
+Symbol . [syll]
+Symbol t
+Symbol s
+Symbol r
+Symbol j
+Symbol h
+Class consonant {t, s, r, j, h}
+
+syllabification:
+  * => . / $ [consonant] _ // {$ [consonant] _ [consonant] $, $ [consonant]$1 _ $1}
+  Then: * => . / _ [consonant] [consonant] [consonant] $ // {. _, $ _}
+  Then: .  => * / . [consonant] _ [consonant] [consonant] [consonant] $
+  Then: * => . / [consonant] [consonant] _ [consonant] [consonant]
+  Then:
+    * => . / t t _ @consonant
+    * => . / s s _ @consonant
+    * => . / r r _ @consonant
+    * => . / j j _ @consonant
+    * => . / h h _ @consonant
+  Then: * => . / @consonant _ $ // . @consonant _
+
+syllabicification:
+  {t, s, r, j, h} => {n̩, s̩, r̩, i, a} / _ .
+
+remove-dot:
+  . => *
+
+# Need to fix [r̩.rʰn̩.tʰi]

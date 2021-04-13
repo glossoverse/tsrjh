@@ -1,0 +1,9 @@
+stages:
+  to-ph:
+    cmd: lexurgy sc tsrjh.lsc tsrjh.wli
+    deps:
+    - tsrjh.lsc
+    - tsrjh.wli
+    outs:
+    - tsrjh_ev.wlm
+    - tsrjh_ev.wli

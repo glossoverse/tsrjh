@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  to-ph:
+    cmd: lexurgy sc tsrjh.lsc tsrjh.wli
+    deps:
+    - path: tsrjh.lsc
+      md5: 23c45ab760e8837a9ef1e2da74d43b3d
+      size: 736
+    - path: tsrjh.wli
+      md5: 5081d81ab0ad680e33d13d742bc4b9a2
+      size: 52
+    outs:
+    - path: tsrjh_ev.wli
+      md5: fc3d7f0b70fa9e9a3970ba6eae5ac0af
+      size: 78
+    - path: tsrjh_ev.wlm
+      md5: 3595a6e0b13d8fde98b5c2d18add5ffe
+      size: 210
