@@ -9,7 +9,7 @@ Symbol h
 Class consonant {t, s, r, j, h}
 
 syllabification:
-  * => . / $ [consonant] _ // {$ [consonant] _ [consonant] $, $ [consonant]$1 _ $1}
+  * => . / $ [consonant] _ // {$ [consonant] _ [consonant] $}
   Then: * => . / _ [consonant] [consonant] [consonant] $ // {. _, $ _}
   Then: .  => * / . [consonant] _ [consonant] [consonant] [consonant] $
   Then: * => . / [consonant] [consonant] _ [consonant] [consonant]
@@ -27,4 +27,8 @@ syllabicification:
 remove-dot:
   . => *
 
-# Need to fix [r̩.rʰn̩.tʰi]
+aspiration:
+  h => ʰ / {t, s, r, j} _
+
+
+# !!! /rrrtthj/ is not parsed correctly

@@ -28,7 +28,7 @@ indent: false
 
 * C: the consonant is syllabic. /t/ = [n̩], /s/ = [s̩].
 * CC: the second consonant is syllabic. /tt/ = [tn̩], /jh/ = [ja].
-* CCC: the third consonant is syllabic, unless two consecutive identical Cs. /tjh/ = [tja], /rjt/ = [rjn̩]. When two consecutive identical Cs, the one that is second within the syllable is syllabic: /tts/ = [tn̩s], /rhh/ = [rah].
+* CCC: the third consonant is syllabic, unless two consecutive identical Cs. /tjh/ = [tja], /rjt/ = [rjn̩]. When two consecutive identical Cs, the one that is second within the syllable is syllabic: /jtts/ = [itn̩s], /trhh/ = [n̩rah].
 
 **Syllabification**. Consonants are assigned to syllables according to the following algorithm:
 
