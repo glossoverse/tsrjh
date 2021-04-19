@@ -22,13 +22,13 @@ syllabification:
   Then: * => . / @consonant _ $ // . @consonant _
 
 syllabicification:
-  {t, s, r, j, h} => {n̩, s̩, r̩, i, a} / _ .
+  {t, s, r, j, h} => {n̩, s̩, ɹ̩, i, a} / _ .
 
 remove-dot:
   . => *
 
 aspiration:
-  h => ʰ / {t, s, r, j} _
+  {th, sh, rh, jh} => {ts, x, ʂ, ʃ}
 
 
 # !!! /rrrtthj/ is not parsed correctly

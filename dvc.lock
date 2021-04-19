@@ -1,18 +1,18 @@
 schema: '2.0'
 stages:
   to-ph:
-    cmd: lexurgy sc tsrjh.lsc tsrjh.wli
+    cmd: lexurgy sc lexicon/tsrjh.lsc lexicon/tsrjh.wli
     deps:
-    - path: tsrjh.lsc
-      md5: 48596426cf9c01091943e7bb6dfef369
-      size: 784
-    - path: tsrjh.wli
-      md5: 89c51c35660efa80956c746c9816c795
-      size: 69
+    - path: lexicon/tsrjh.lsc
+      md5: a245c335ace56d37369a733d0b6974f5
+      size: 808
+    - path: lexicon/tsrjh.wli
+      md5: 14a2fab0b38a49b7432fdc12b38af52b
+      size: 64
     outs:
-    - path: tsrjh_ev.wli
-      md5: 12a9e0012902917bfc243d06a8225d39
-      size: 112
-    - path: tsrjh_ev.wlm
-      md5: 24f7c51078ca21d44f22126662d5d01a
-      size: 266
+    - path: lexicon/tsrjh_ev.wli
+      md5: cb48600c46d75a3c5680ada881249cca
+      size: 97
+    - path: lexicon/tsrjh_ev.wlm
+      md5: 6e13c0896b40b77202256bf247225f5a
+      size: 229
