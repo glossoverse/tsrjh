@@ -4,15 +4,19 @@ stages:
     cmd: lexurgy sc lexicon/tsrjh.lsc lexicon/tsrjh.wli
     deps:
     - path: lexicon/tsrjh.lsc
-      md5: a245c335ace56d37369a733d0b6974f5
-      size: 808
+      hash: md5
+      md5: 87a8cf77ec0bb383810405a3670e911a
+      size: 425
     - path: lexicon/tsrjh.wli
-      md5: 14a2fab0b38a49b7432fdc12b38af52b
-      size: 64
+      hash: md5
+      md5: 7ff8c0fcb97350fbede3fc0fbfdcb634
+      size: 124
     outs:
     - path: lexicon/tsrjh_ev.wli
-      md5: cb48600c46d75a3c5680ada881249cca
-      size: 97
+      hash: md5
+      md5: dc0a8e88bb756f145d0c62b932142d19
+      size: 171
     - path: lexicon/tsrjh_ev.wlm
-      md5: 6e13c0896b40b77202256bf247225f5a
-      size: 229
+      hash: md5
+      md5: c7cf3d253085c38215bfeab955d0a204
+      size: 443
