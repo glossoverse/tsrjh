@@ -5,18 +5,18 @@ stages:
     deps:
     - path: lexicon/tsrjh.lsc
       hash: md5
-      md5: 87a8cf77ec0bb383810405a3670e911a
-      size: 425
+      md5: ff56fbdc767680b49ffce94d0bfcf937
+      size: 427
     - path: lexicon/tsrjh.wli
       hash: md5
-      md5: 7ff8c0fcb97350fbede3fc0fbfdcb634
-      size: 124
+      md5: 68e8c3a864eb9343f8fcb749c1f31609
+      size: 131
     outs:
     - path: lexicon/tsrjh_ev.wli
       hash: md5
-      md5: dc0a8e88bb756f145d0c62b932142d19
-      size: 171
+      md5: 3c99bb73b19b23dd99ed3e3df4152a85
+      size: 184
     - path: lexicon/tsrjh_ev.wlm
       hash: md5
-      md5: c7cf3d253085c38215bfeab955d0a204
-      size: 443
+      md5: 12cdba15302a84fee143e043579be0ed
+      size: 418

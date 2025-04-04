@@ -10,7 +10,7 @@ Syllables:
   explicit
 
 syllabic-ification:
-  @consonant$1 @consonant&$1 => $1 @syllabic / _ @consonant . // _ . @consonant
+  @consonant$1 @consonant&$1 => $1 @syllabic / . _ @consonant . // _ . @consonant
   Then: @consonant => {n̩, s̩, ɹ̩, i, a} / _ . // @syllabic _
 
 aspiration:
