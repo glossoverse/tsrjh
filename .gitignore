@@ -6,3 +6,6 @@
 .Ruserdata
 /tsrjh_ev.wlm
 /tsrjh_ev.wli
+
+/.quarto/
+**/*.quarto_ipynb
