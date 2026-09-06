@@ -1,22 +1,31 @@
 schema: '2.0'
 stages:
   to-ph:
-    cmd: lexurgy sc lexicon/tsrjh.lsc lexicon/tsrjh.wli
+    cmd: lexurgy sc lexicon/tsrjh.lsc lexicon/tsrjh.wli -o phon
     deps:
+    - path: lexicon/syllabify.sh
+      hash: md5
+      md5: 32996430a28510ff8b63e07c9387c28d
+      size: 1021
+      isexec: true
     - path: lexicon/tsrjh.lsc
       hash: md5
       md5: ff56fbdc767680b49ffce94d0bfcf937
       size: 427
+    - path: lexicon/tsrjh.txt
+      hash: md5
+      md5: 6d9ddb0f327c0263161f71f16346e070
+      size: 124
     - path: lexicon/tsrjh.wli
       hash: md5
       md5: 9f80bffcd15fd36cab3622e88d5a2233
       size: 156
     outs:
-    - path: lexicon/tsrjh_ev.wli
+    - path: lexicon/tsrjh_phon.wli
       hash: md5
       md5: 2622294bcd239852ff2123f2399dccb0
       size: 213
-    - path: lexicon/tsrjh_ev.wlm
+    - path: lexicon/tsrjh_phon.wlm
       hash: md5
       md5: 91efcca27c09106d0abdc6fa06b8646d
       size: 499

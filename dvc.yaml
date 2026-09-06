@@ -2,10 +2,12 @@ stages:
   syllabify:
     cmd: ./lexicon/syllabify.sh lexicon/tsrjh.txt > lexicon/tsrjh.wli
   to-ph:
-    cmd: lexurgy sc lexicon/tsrjh.lsc lexicon/tsrjh.wli
+    cmd: lexurgy sc lexicon/tsrjh.lsc lexicon/tsrjh.wli -o phon
     deps:
+    - lexicon/syllabify.sh
+    - lexicon/tsrjh.txt
     - lexicon/tsrjh.lsc
     - lexicon/tsrjh.wli
     outs:
-    - lexicon/tsrjh_ev.wlm
-    - lexicon/tsrjh_ev.wli
+    - lexicon/tsrjh_phon.wlm
+    - lexicon/tsrjh_phon.wli
