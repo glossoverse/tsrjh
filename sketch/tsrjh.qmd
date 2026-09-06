@@ -101,7 +101,7 @@ Within a syllable, the consonant can be the nucleus or the onset/coda.
     -   /t.rhh/ \[n̩.ˈrah\] *n-rah* 'I fall'.
     -   /t.jhj/ \[n̩.ˈʃi\] *n-shi* 'my eyes'.
 
-[^1]: The plural suffix is usually /j/-, but due to the restriction \*/jj/, /h/ dissimilates to /h/.
+[^1]: The plural suffix is usually /j/-, but due to the restriction \*/jj/, /j/ dissimilates to /h/.
 
 # Root and word minimality
 
