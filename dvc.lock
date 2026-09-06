@@ -20,3 +20,5 @@ stages:
       hash: md5
       md5: 91efcca27c09106d0abdc6fa06b8646d
       size: 499
+  syllabify:
+    cmd: ./lexicon/syllabify.sh lexicon/tsrjh.txt > lexicon/tsrjh.wli

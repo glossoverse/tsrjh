@@ -1,4 +1,6 @@
 stages:
+  syllabify:
+    cmd: ./lexicon/syllabify.sh lexicon/tsrjh.txt > lexicon/tsrjh.wli
   to-ph:
     cmd: lexurgy sc lexicon/tsrjh.lsc lexicon/tsrjh.wli
     deps:
