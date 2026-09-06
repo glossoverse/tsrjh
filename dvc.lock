@@ -9,14 +9,14 @@ stages:
       size: 427
     - path: lexicon/tsrjh.wli
       hash: md5
-      md5: 68e8c3a864eb9343f8fcb749c1f31609
-      size: 131
+      md5: 9f80bffcd15fd36cab3622e88d5a2233
+      size: 156
     outs:
     - path: lexicon/tsrjh_ev.wli
       hash: md5
-      md5: 3c99bb73b19b23dd99ed3e3df4152a85
-      size: 184
+      md5: 2622294bcd239852ff2123f2399dccb0
+      size: 213
     - path: lexicon/tsrjh_ev.wlm
       hash: md5
-      md5: 12cdba15302a84fee143e043579be0ed
-      size: 418
+      md5: 91efcca27c09106d0abdc6fa06b8646d
+      size: 499
