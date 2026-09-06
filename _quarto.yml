@@ -18,6 +18,7 @@ format:
       - cosmo
       - brand
     css: styles.css
+    number-sections: true
     toc: true
 
 

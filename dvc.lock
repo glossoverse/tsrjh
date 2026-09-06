@@ -14,20 +14,20 @@ stages:
       size: 427
     - path: lexicon/tsrjh.txt
       hash: md5
-      md5: 6d9ddb0f327c0263161f71f16346e070
-      size: 124
+      md5: aca7527956785ab64f64cf0e867bdfc5
+      size: 149
     - path: lexicon/tsrjh.wli
       hash: md5
-      md5: 9f80bffcd15fd36cab3622e88d5a2233
-      size: 156
+      md5: eb083587cf399590179bd4f6196e23bb
+      size: 187
     outs:
     - path: lexicon/tsrjh_phon.wli
       hash: md5
-      md5: 2622294bcd239852ff2123f2399dccb0
-      size: 213
+      md5: fba3d898bcb0675e0cac046fe8d45971
+      size: 262
     - path: lexicon/tsrjh_phon.wlm
       hash: md5
-      md5: 91efcca27c09106d0abdc6fa06b8646d
-      size: 499
+      md5: 1382c7b1ee6c68b0da2becb83430ef01
+      size: 613
   syllabify:
     cmd: ./lexicon/syllabify.sh lexicon/tsrjh.txt > lexicon/tsrjh.wli

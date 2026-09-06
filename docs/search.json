@@ -10,22 +10,22 @@
     "objectID": "sketch/tsrjh.html#allophones",
     "href": "sketch/tsrjh.html#allophones",
     "title": "N-srja",
-    "section": "Allophones",
-    "text": "Allophones\nThe phonemes are realised as different allophones depending on the position in the syllable (onset/coda vs nucleus, see below). When /h/ follows any of the phonemes (except /h/), it triggers “aspiration” which results in fricative/affricate allophones.\n\n\n\nphoneme\nonset/coda\naspirated\nnucleus\n\n\n\n\n/t/\n[t]\n[ts]\n[n̩]\n\n\n/s/\n[s]\n[x]\n[s̩]\n\n\n/r/\n[r]\n[ʂ]\n[ɹ̩]\n\n\n/j/\n[j]\n[ʃ]\n[i]\n\n\n/h/\n[h]\n-\n[a]"
+    "section": "1.1 Allophones",
+    "text": "1.1 Allophones\nThe phonemes are realised as different allophones depending on the position in the syllable (onset/coda vs nucleus, see below). When /h/ follows any of the phonemes (except /h/), it triggers “aspiration” which results in fricative/affricate allophones.\n\n\n\nphoneme\nonset/coda\naspirated\nnucleus\n\n\n\n\n/t/\n[t]\n[ts]\n[n̩]\n\n\n/s/\n[s]\n[x]\n[s̩]\n\n\n/r/\n[r]\n[ʂ]\n[ɹ̩]\n\n\n/j/\n[j]\n[ʃ]\n[i]\n\n\n/h/\n[h]\n-\n[a]"
   },
   {
     "objectID": "sketch/tsrjh.html#syllabification",
     "href": "sketch/tsrjh.html#syllabification",
     "title": "N-srja",
-    "section": "Syllabification",
-    "text": "Syllabification\nConsonants are assigned to syllables according to the following algorithm:\n\nAssign the first consonant to its own syllable.\nFrom the end of the word, assign as many three-consonantal syllables as possible, unless this would create a second mono-consonantal syllable (e.g. */C.C.CCC/ is not possible).\nAssign the remaining consonants to two-consonantal syllables.\n\n\n\n\n\n\n\n\n\n\n/tthj/‘tree’\n/tthjh/‘trees’\n/tsjhhr/‘I was found’\n/rrhtthj/‘they will do [it]’\n\n\n\n\n(t)thj\n(t)thjh\n(t)sjhhr\n(r)rhtthj\n\n\n(t)(thj)\n*(t)t(hjh)\n(t)sj(hhr)\n(r)rht(thj)\n\n\n\n(t)(th)(jh)\n(t)(sj)(hhr)\n(r)(rht)(thj)"
+    "section": "2.1 Syllabification",
+    "text": "2.1 Syllabification\nConsonants are assigned to syllables according to the following algorithm:\n\nAssign the first consonant to its own syllable.\nFrom the end of the word, assign as many three-consonantal syllables as possible, unless this would create a second mono-consonantal syllable (e.g. */C.C.CCC/ is not possible).\nAssign the remaining consonants to two-consonantal syllables.\n\n\n\n\n\n\n\n\n\n\n/tthj/‘tree’\n/tthjh/‘trees’\n/tsjhhr/‘I was found’\n/rrhtthj/‘they will do [it]’\n\n\n\n\n(t)thj\n(t)thjh\n(t)sjhhr\n(r)rhtthj\n\n\n(t)(thj)\n*(t)t(hjh)\n(t)sj(hhr)\n(r)rht(thj)\n\n\n\n(t)(th)(jh)\n(t)(sj)(hhr)\n(r)(rht)(thj)"
   },
   {
     "objectID": "sketch/tsrjh.html#syllable-driven-allophony",
     "href": "sketch/tsrjh.html#syllable-driven-allophony",
     "title": "N-srja",
-    "section": "Syllable-driven allophony",
-    "text": "Syllable-driven allophony\nWithin a syllable, the consonant can be the nucleus or the onset/coda.\n\n(C): The only consonant is the syllabic nucleus.\n\n/t/- [n̩] n- ‘1st’,\n/s/- [s̩] s- ‘2nd’.\n\n(CC). The second consonant is the nucleus.\n\n/j.tt/ [i.ˈtn̩] i-tn ‘their (sg) head’,\n/s.jh/ [s̩.ˈja] s-ja ‘your eye’.\n/t.th.jh/ [n̩.ˈta.ja] ‘trees’.1\n/r.jt/ [ɹ̩.ˈjn̩] r-jn ‘to laugh’,\n\n(CCC). The third consonant is the nucleus, unless there are two consecutive identical /C/s, in which case the second /C/ in the syllable is the nucleus.\n\n/t.thj/ [n̩.ˈtsi] ‘tree’.\n/j.tts/ [i.ˈtn̩s] i-tns ‘they (sg) go’,\n/t.rhh/ [n̩.ˈrah] n-rah ‘I fall’.\n/t.jhj/ [n̩.ˈʃi] n-shi ‘my eyes’."
+    "section": "2.2 Syllable-driven allophony",
+    "text": "2.2 Syllable-driven allophony\nWithin a syllable, the consonant can be the nucleus or the onset/coda.\n\n(C): The only consonant is the syllabic nucleus.\n\n/t/- [n̩] n- ‘1st’,\n/s/- [s̩] s- ‘2nd’.\n/j/- [i] i- ‘3rd’.\n\n(CC). The second consonant is the nucleus.\n\n/j.tt/ [i.ˈtn̩] i-tn ‘their (sg) head’,\n/s.jh/ [s̩.ˈja] s-ja ‘your eye’.\n/t.th.jh/ [n̩.ˈta.ja] ‘trees’.1\n/r.jt/ [ɹ̩.ˈjn̩] r-jn ‘to laugh’,\n\n(CCC). The third consonant is the nucleus, unless there are two consecutive identical /C/s, in which case the second /C/ in the syllable is the nucleus.\n\n/t.thj/ [n̩.ˈtsi] ‘tree’.\n/j.tts/ [i.ˈtn̩s] i-tns ‘they (sg) go’,\n/t.rhh/ [n̩.ˈrah] n-rah ‘I fall’.\n/t.jhj/ [n̩.ˈʃi] n-shi ‘my eyes’."
   },
   {
     "objectID": "sketch/tsrjh.html#footnotes",
@@ -47,5 +47,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "sketch/tsrjh.html#phonotactic-restrictions",
+    "href": "sketch/tsrjh.html#phonotactic-restrictions",
+    "title": "N-srja",
+    "section": "3.1 Phonotactic restrictions",
+    "text": "3.1 Phonotactic restrictions\nRoots have the following phonotactic restrictions:\n\nNo more than two consecutive identical phonemes are allowed.\nSonority cannot decrease in the first two phonemes of the root (the sonority hierarchy is /s,r, j, h/ &gt; /t/): /htj/, /jtr/, but /hrt/, /jst/."
   }
 ]

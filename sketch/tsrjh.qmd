@@ -90,6 +90,7 @@ Within a syllable, the consonant can be the nucleus or the onset/coda.
 -   (C): The only consonant is the syllabic nucleus.
     -   /t/- \[n̩\] *n-* '1st',
     -   /s/- \[s̩\] *s-* '2nd'.
+    -   /j/- \[i\] *i-* '3rd'.
 -   (CC). The second consonant is the nucleus.
     -   /j.tt/ \[i.ˈtn̩\] *i-tn* 'their (*sg*) head',
     -   /s.jh/ \[s̩.ˈja\] *s-ja* 'your eye'.
@@ -115,3 +116,14 @@ Possible roots:
 -   C.CC.CC
 -   C.CC.CCC
 -   C.CCC.CCC (rare)
+
+Exeptions: some inalienable objects (like head, eyes) are monosyllabic, but posessive prefixes are mandatory and thus make them disyllabic. For example:
+
+- */jh/ 'eye' > /t-jh/ 'my eye' \[n̩.ˈja\], plural /t-jh-j/ 'my eyes' \[n̩.ˈʃi\].
+
+## Phonotactic restrictions
+
+Roots have the following phonotactic restrictions:
+
+- No more than two consecutive identical phonemes are allowed.
+- Sonority cannot decrease in the first two phonemes of the root (the sonority hierarchy is /s,r, j, h/ > /t/): */htj/, */jtr/, but /hrt/, /jst/.
